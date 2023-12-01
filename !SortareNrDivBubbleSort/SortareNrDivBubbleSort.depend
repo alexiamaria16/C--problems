@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644440910 source:c:\users\40770\documents\info\sortarenrdivbubblesort\main.cpp
+	<fstream>
+	<iostream>
+
